@@ -25,11 +25,6 @@ nav a:hover {
   padding: 10px 20px;
 }
 
-.navbar .logo {
-  font-size: 1.5rem;
-  font-weight: bold;
-}
-
 .navbar .menu {
   display: flex;
   gap: 15px;
